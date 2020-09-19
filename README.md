@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=ETBassist)](https://github.com/ETBassist/github-readme-stats)
 
 <!--
