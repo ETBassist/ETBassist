@@ -1,4 +1,5 @@
 ### Hello there! 👋
+Hi, I'm Eugene! Right now I'm a student at the [Turing School of Software and Design](https://turing.io/?gclid=CjwKCAjwwab7BRBAEiwAapqpTDUspl8rVnlnBCJzssYDp6g5CVOrBz541kbGuO3dYmrhpycfwAB0mBoCp9AQAvD_BwE) learning Ruby and Rails. 
 [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=ETBassist)](https://github.com/ETBassist/github-readme-stats)
 
 <!--
