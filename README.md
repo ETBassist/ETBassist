@@ -3,7 +3,8 @@ Hi, I'm Eugene! Right now I'm a student at the [Turing School of Software and De
 [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=ETBassist)](https://github.com/ETBassist/github-readme-stats)
 
 <p align=center>
-  <a href="https://www.linkedin.com/in/eugene-theriault/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <strong>If you'd like to get in touch, you can contact me through:<strong> <br>
+  <a href="https://www.linkedin.com/in/eugene-theriault/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="mailto:hybridbassist@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
