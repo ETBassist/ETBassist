@@ -1,6 +1,6 @@
 
   <h1 align=center>Hello there! 👋 </h1>
-  <p align=center>Hi, I'm Eugene! Right now I'm a student at the <a href="https://turing.io/?gclid=CjwKCAjwwab7BRBAEiwAapqpTDUspl8rVnlnBCJzssYDp6g5CVOrBz541kbGuO3dYmrhpycfwAB0mBoCp9AQAvD_BwE">[Turing School of Software and Design]</a> learning Ruby and Rails. Feel free to check out what I've been working on!</p>
+  <p align=center>Hi, I'm Eugene! This is my personal GitHub profile, and it's mostly projects I've been playing around with in my free time (and projects from when I was a student at the <a href="https://turing.io/?gclid=CjwKCAjwwab7BRBAEiwAapqpTDUspl8rVnlnBCJzssYDp6g5CVOrBz541kbGuO3dYmrhpycfwAB0mBoCp9AQAvD_BwE">[Turing School of Software and Design]</a> learning Ruby and Rails). Feel free to check out what I've been working on!</p>
   <!-- [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=ETBassist)](https://github.com/ETBassist/github-readme-stats) -->
 
   <div align="center">
