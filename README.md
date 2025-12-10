@@ -3,15 +3,6 @@
   <p align=center>Hi, I'm Eugene! This is my personal GitHub profile, and it's mostly projects I've been playing around with in my free time (and projects from when I was a student at the <a href="https://turing.io/?gclid=CjwKCAjwwab7BRBAEiwAapqpTDUspl8rVnlnBCJzssYDp6g5CVOrBz541kbGuO3dYmrhpycfwAB0mBoCp9AQAvD_BwE">[Turing School of Software and Design]</a> learning Ruby and Rails). Feel free to check out what I've been working on!</p>
   <!-- [![Eugene's github stats](https://github-readme-stats.vercel.app/api?username=ETBassist)](https://github.com/ETBassist/github-readme-stats) -->
 
-  <div align="center">
-    <a href="https://github.com/ETBassist/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ETBassist&show_icons=true&theme=tokyonight" height="200" width="500"/>
-    </a>
-    <a href="https://github.com/ETBassist/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ETBassist&theme=tokyonight" height="200" width="300"/>
-    </a>
-  </div>
-
   <hr>
   <h3 align="center">Tech Stack</h3>
   
